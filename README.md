@@ -14,5 +14,9 @@
 Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and whatever anybody wants me to do! I am the Founder of ValkyrieBots, Valkyrie is a group of coders that code Discord bots. I enjoy testing my skills in many fields such as Python , HTML and Java, I am a Pentester and enjoy it very much.
 
 
+<h3 align="left">❗Stats:</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Doodoocaca&show_icons=true&theme=radical)
+
+
 <h3 align="left">☎️Contact:</h3>
 <a href="mailto:valkyriebots@gmail.com" target="_blank"> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="gmail" width="40" height="40"/> </a> <a href="https://github.com/ValkyrieBots" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="valkyrie" width="40" height="40"/> </a>
