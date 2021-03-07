@@ -11,4 +11,4 @@
 
 <h3 align="left">📚About Me:</h3>
 
-Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and Whatever anybody wants me to do!
+Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and whatever anybody wants me to do! I am the Founder of ValkyrieBots, Valkyrie is a group of coders that code Discord bots. I enjoy testing my skills in many fields such as Python , HTML and Java, I am a Pentester and enjoy it very much.
