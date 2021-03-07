@@ -15,7 +15,8 @@ Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and whatever anybody
 
 
 <h3 align="left">❗Stats:</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Doodoocaca&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgamer945&show_icons=true&theme=radical)
 
 
 <h3 align="left">☎️Contact:</h3>
