@@ -15,4 +15,4 @@ Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and whatever anybody
 
 
 <h3 align="left">☎️Contact:</h3>
-<a href="" target="_blank"> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="gmail" width="40" height="40"/> </a> <a href="https://github.com/ValkyrieBots" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="valkyrie" width="40" height="40"/> </a>
+<a href="valkyriebots@gmail.com" target="_blank"> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="gmail" width="40" height="40"/> </a> <a href="https://github.com/ValkyrieBots" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="valkyrie" width="40" height="40"/> </a>
