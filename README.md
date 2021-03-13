@@ -3,7 +3,7 @@
 
 - 📖 I’m currently working on [Social Manager](https://github.com/bify/Social-Manager)
 
-- ⚙️ I’m currently learning **Red Hat Linux**
+- ⚙️ I’m currently learning **Kali Linux**
 
 
 <h3 align="left">🌐Languages and Tools🔨:</h3>
