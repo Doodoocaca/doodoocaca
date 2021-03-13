@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm doo doo ca ca🔥</h1>
 <h3 align="center">A Developer📁</h3>
 
-- 📖 I’m currently working on [Malware](https://github.com/Doodoocaca/MalwareTesting)
+- 📖 I’m currently working on [Social Manager](https://github.com/bify/Social-Manager)
 
 - ⚙️ I’m currently learning **Red Hat Linux**
 
