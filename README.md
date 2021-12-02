@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm doo doo ca ca🔥</h1>
 <h3 align="center">A Developer📁</h3>
 
-- 📖 I’m currently working on [propsense.pub](https://propsense.pub/)
+- 📖 I’m currently working on [sugoma.solutions](https://sugoma.solutions/)
 
-- ⚙️ I’m currently learning **JavaScript**
+- ⚙️ I’m currently learning **C**
 
 
 <h3 align="left">🌐Languages and Tools🔨:</h3>
@@ -11,7 +11,7 @@
 
 <h3 align="left">📚About Me:</h3>
 
-Hi, I'm doo doo ca ca, I like to code Discord bots, Malware and whatever anybody wants me to do! I am the Founder of ValkyrieBots, Valkyrie is a group of coders that code Discord bots. I enjoy testing my skills in many fields such as Python , HTML and Java, I am a Pentester and enjoy it very much.
+Hi, I'm doo doo ca ca, I like to code Discord bots, game cheats and whatever anybody wants me to do! I am the Founder of ValkyrieBots, Valkyrie is a group of coders that code Discord bots. I enjoy testing my skills in many fields such as Python , HTML and Java.
 
 
 <h3 align="left">❗Stats:</h3>
