@@ -11,7 +11,7 @@
 
 <h3 align="left">📚About Me:</h3>
 
-Hi, I'm doo doo ca ca, I like to code Discord bots, game cheats and whatever anybody wants me to do! I am the Founder of ValkyrieBots, Valkyrie is a group of coders that code Discord bots. I enjoy testing my skills in many fields such as Python , HTML and Java.
+Hi, I'm doo doo ca ca, I do hacks and stuff, or like whatever idc you tell me nerd. I enjoy testing my skills in many fields such as Python , HTML and Java.
 
 
 <h3 align="left">❗Stats:</h3>
