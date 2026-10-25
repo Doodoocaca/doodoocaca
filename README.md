@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/profile.gif" alt="profile" align="center">
+<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/profile2.gif" alt="profile" align="center">
 </div>
 
 <br><br>
