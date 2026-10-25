@@ -4,7 +4,7 @@
 
 <table>
   <nobr>
-    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d1.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d2.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o2.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d1.gif"></td>
