@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/to.gif" alt="Welcome" align="center">
+<img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/to.gif" alt="to" align="center">
 </div>
 <br><br>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/profile.gif" alt="Welcome" align="center">
+<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/profile.gif" alt="profile" align="center">
 </div>
 
 <br><br>
