@@ -3,10 +3,9 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o4.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/c6.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/a2.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/c5.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/a4.gif" border="0">
+<center><span style="white-space:nowrap"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o4.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/c6.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/a2.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/c5.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/a4.gif" border="0"></span></center>
+
+
 <h3 align="center">developer</h3>
 
 - 📖 I’m currently working on **AI developer tooling**
