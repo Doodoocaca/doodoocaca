@@ -10,7 +10,7 @@
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d1.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o3.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o4.gif"></td>
-    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c2.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c4.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a2.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c3.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a2.gif"></td>
