@@ -3,7 +3,7 @@
 </div>
 
 <table>
-  <tr>
+  <nobr>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d1.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
@@ -11,10 +11,10 @@
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c1.gif"></td>
-    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a1.gif"></td>
     <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c1.gif"></td>
-    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a.gif"></td>
-  </tr>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a1.gif"></td>
+  </nobr>
 </table>
 <h3 align="center">developer</h3>
 
