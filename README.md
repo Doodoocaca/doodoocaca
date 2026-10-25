@@ -3,7 +3,9 @@
 </div>
 
 
-<center><span style="white-space:nowrap"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif" border="0"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o4.gif" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/s1.gif" border="0"></span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif"><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o4.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/s1.gif">
+</p>
 
 <br><br>
 </center>
