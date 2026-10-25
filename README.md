@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/beb541eeb1ee06ba00ef55d5baa60773.gif?raw=true" alt="Welcome" align="center">
+<img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/welcome.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
