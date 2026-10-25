@@ -23,10 +23,7 @@
 
 
 <br><br>
-<img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/AA7TP5A4JARPSMQMYA76ZEURZXZHU36I.gif" alt="About me" align="center">
-</div>
 
-I enjoy testing my skills in many fields such as Python , Web Development and Data Science.
 
 
 <h3 align="left">my github stats</h3>
