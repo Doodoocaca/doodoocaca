@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif"></td>
-    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o4.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/c1.gif"></td>
