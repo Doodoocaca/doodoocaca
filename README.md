@@ -22,7 +22,7 @@
 
 
 
-- 📖 I’m currently working on **AI developer tooling**
+- 📖 I’m currently working on **Dev Tooling**
 
 - ⚙️ I’m currently learning **Machine Learning**
 
