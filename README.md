@@ -1,6 +1,21 @@
 <div align="center">
 <img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/beb541eeb1ee06ba00ef55d5baa60773.gif?raw=true" alt="Welcome" align="center">
 </div>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/d.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/o.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/c.gif"></td>
+    <td><img src="https://github.com/Doodoocaca/doodoocaca/blob/main/imgs/a.gif"></td>
+  </tr>
+</table>
 <h3 align="center">developer</h3>
 
 - 📖 I’m currently working on **AI developer tooling**
