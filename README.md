@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif"></td>
-    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d2.gif" border="0"></td>
+    <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o.gif" border="0"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o2.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/d1.gif"></td>
     <td><img src="https://raw.githubusercontent.com/Doodoocaca/doodoocaca/main/imgs/o3.gif"></td>
